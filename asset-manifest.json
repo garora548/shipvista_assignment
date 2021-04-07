@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/shipvista_assignment/static/css/main.4567c5c1.chunk.css",
+    "main.js": "/shipvista_assignment/static/js/main.1819b079.chunk.js",
+    "main.js.map": "/shipvista_assignment/static/js/main.1819b079.chunk.js.map",
+    "runtime-main.js": "/shipvista_assignment/static/js/runtime-main.c4a1d93d.js",
+    "runtime-main.js.map": "/shipvista_assignment/static/js/runtime-main.c4a1d93d.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/shipvista_assignment/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.0fb67f24.chunk.js": "/shipvista_assignment/static/js/2.0fb67f24.chunk.js",
+    "static/js/2.0fb67f24.chunk.js.map": "/shipvista_assignment/static/js/2.0fb67f24.chunk.js.map",
+    "static/js/3.352cd131.chunk.js": "/shipvista_assignment/static/js/3.352cd131.chunk.js",
+    "static/js/3.352cd131.chunk.js.map": "/shipvista_assignment/static/js/3.352cd131.chunk.js.map",
+    "index.html": "/shipvista_assignment/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/shipvista_assignment/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.4567c5c1.chunk.css.map": "/shipvista_assignment/static/css/main.4567c5c1.chunk.css.map",
+    "static/js/2.0fb67f24.chunk.js.LICENSE.txt": "/shipvista_assignment/static/js/2.0fb67f24.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4a1d93d.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.0fb67f24.chunk.js",
+    "static/css/main.4567c5c1.chunk.css",
+    "static/js/main.1819b079.chunk.js"
+  ]
+}
